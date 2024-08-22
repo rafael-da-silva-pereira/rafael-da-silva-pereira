@@ -19,9 +19,9 @@
 ### Sobre Mim
 
 Olá! Sou o Rafael, estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou em busca de um estágio para aplicar meus conhecimentos e crescer profissionalmente.
-
-### Projetos em Destaque
 <!--
+### Projetos em Destaque
+
 Aqui estão alguns dos meus projetos mais recentes:
 
 - [Projeto 1](https://github.com/rafael-da-silva-pereira/template-HTML-CSS/tree/master): Template de um site, feito apenas com duas linguagens de marcação: HTML e CSS.
